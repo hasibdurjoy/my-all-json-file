@@ -3,7 +3,7 @@
         "id": "service-1",
         "name": "Expert Doctors",
         "description": "Medical specialists are experts in certain fields of medicine. They either treat specific parts of the body, such as the back or the brain, or they specialize in certain diseases, such as cancer. Family doctors keep a list of local specialists and can help patients choose the right specialist for each medical issue.",
-        "img": "https://image.freepik.com/free-photo/happy-team-successful-doctors-standing-together-hospital-gowns_186202-1737.jpg"
+        "img": "https://i.ibb.co/jzyrtQq/Screenshot-3-removebg-preview.png"
     },
     {
         "id": "service-2",
@@ -39,6 +39,6 @@
         "id": "service-7",
         "name": "Ambulance service",
         "description": "An ambulance is a medically equipped vehicle which transports patients to treatment facilities, such as hospitals. Typically, out-of-hospital medical care is provided to the patient. Ambulances are used to respond to medical emergencies by emergency medical services",
-        "img": "https://image.freepik.com/free-vector/emergency-ambulance-with-coronavirus-concept_23-2148534627.jpg"
+        "img": "https://hasibur-rahman222.imgbb.com/"
     }
 ]
