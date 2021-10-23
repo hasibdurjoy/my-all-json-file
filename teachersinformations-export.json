@@ -1,5 +1,5 @@
 {
-  "teacherInfo": [
+  "teacherInfo": {
     "-LuNwvGZy9Ge2D0V5r_W": {
       "contact": "01817382645",
       "department": "CSE",
@@ -1449,5 +1449,5 @@
       "initial": "ISH",
       "name": "Mrs. Israt Hossain"
     }
-  ]
+  }
 }
